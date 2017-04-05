@@ -1,0 +1,20 @@
+#drawing {
+    border: 1px solid #000000;
+    overflow: hidden;
+}
+
+#circle { 
+	position: fixed;
+}
+
+#users {
+	font-size: 24px;
+	position: fixed;
+	top: -25px;
+	left: 50px;
+}
+
+body {
+	overflow: hidden;
+	margin: 0;
+}
