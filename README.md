@@ -1,6 +1,8 @@
 # multiplayer-doodling
 Simple creation implementing WebSockets in an HTML5 canvas in order to update real-time drawings.
 
+![Image](http://i.imgur.com/56uUMHf.png)
+
 # Usage
 
 Space - Cycle through brush sizes.
