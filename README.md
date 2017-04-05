@@ -5,13 +5,13 @@ Simple creation implementing WebSockets in an HTML5 canvas in order to update re
 
 # Usage
 
-'''Space''' - Cycle through brush sizes.
+`Space` - Cycle through brush sizes.
 
-'''Enter''' - Cycle through colours.
+`Enter` - Cycle through colours.
 
-'''S''' - Save the current drawing to disk.
+`S` - Save the current drawing to disk.
 
-'''Shift + Enter''' - Clear the current drawing.
+`Shift + Enter` - Clear the current drawing.
 
 # Installation
 ```
